@@ -3,7 +3,7 @@ title: My First Blog Post
 author: Bugra
 date: 2024-03-04 00:34:00 +0800
 categories: [Blogging]
-tags: [startup, learning,]
+tags: [Blogging]
 
 ---
 
